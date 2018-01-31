@@ -20,11 +20,11 @@ for file in dirs:
 file_downloading = files[yesterday_str]
 # print(file_downloading)
 
-USERNAME = '6146908@qq.com'  # Email Address from the email you want to send an email
+USERNAME = '64146908@qq.com'  # Email Address from the email you want to send an email
 PASSWORD = 'otlmnxirvhwybhbe'  # Password
 server = smtplib.SMTP('smtp.qq.com')
-FROM_ADDR = '6146908@qq.com'
-TO_ADDR = '6146908@qq.com'
+FROM_ADDR = '64146908@qq.com'
+TO_ADDR = '64146908@qq.com'
 html = ''
 
 """
